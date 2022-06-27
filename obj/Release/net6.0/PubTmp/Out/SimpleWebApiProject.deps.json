@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SimpleWebApiProject/1.0.0": {
+        "runtime": {
+          "SimpleWebApiProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleWebApiProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\SimpleWebApiProject\SimpleWebApiProject\obj\Release\net6.0\PubTmp\Out\SimpleWebApiProject.exe
+C:\SimpleWebApiProject\SimpleWebApiProject\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\SimpleWebApiProject\SimpleWebApiProject\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\SimpleWebApiProject\SimpleWebApiProject\obj\Release\net6.0\PubTmp\Out\SimpleWebApiProject.dll
+C:\SimpleWebApiProject\SimpleWebApiProject\obj\Release\net6.0\PubTmp\Out\SimpleWebApiProject.deps.json
+C:\SimpleWebApiProject\SimpleWebApiProject\obj\Release\net6.0\PubTmp\Out\SimpleWebApiProject.runtimeconfig.json
+C:\SimpleWebApiProject\SimpleWebApiProject\obj\Release\net6.0\PubTmp\Out\SimpleWebApiProject.pdb
